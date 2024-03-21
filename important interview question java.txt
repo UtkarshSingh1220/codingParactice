@@ -1,0 +1,115 @@
+1) What is the distinction between JDK, JRE, and JVM?
+Q-2) What are the SOLID principles in OO programming, and how do they apply to Java development?
+Q-3) In Java, what is the difference between an abstract class and an interface, and when should you use each?
+Q-4) What is the difference between checked and unchecked exceptions in Java, and how do you handle them?
+Q-5) What are some frequent memory-related concerns in Java programmes, and how do you manage memory in Java?
+Q-6) In Java, what is the difference between a HashMap and a TreeMap, and when would you utilise each?
+Q-7) What are the distinctions between multithreading and multitasking, and how do they differ in Java?
+Q-8) In Java, what is the difference between a String and a StringBuilder, and when would you utilise each?
+Q-9) What are some frequent difficulties that can arise while implementing serialisation and deserialization in Java?
+Q-10 )What are some frequent security flaws in Java programmes, and how do you assure the security of a Java application
+Tell me about your IT experience and projects you worked on?
+What is the difference between method overloading and method overriding?
+What is a marker interface in java?
+What is serialization in java?
+What are Functional Interfaces in java?
+What is the Default method in interface?
+What is the difference b/w ArrayList and LinkedList in java?
+How to create custom Exceptions in Java?
+int[] a= {1,2,3,4,5,6,7,8} write a code to sum of all even numbers using Java8 only. (Hint{not provided by interviewer}: Stream API)
+Sort an employee list based on name and department when id, name, salary, department are given.
+How to remove tomcat server dependency from Java application, as it is present in starter-web dependency.
+How to add another server dependency in a Java application?
+Can Controller and Service classes be different packages in Java?
+Introduce yourself.
+Why java is platform independent?
+What is a static keyword?
+What is the difference between abstract class and interface?
+Explain super keyword.
+Write a code and explain inheritance and polymorphism.
+What is the difference between method overloading and method overriding?
+Why method overriding is called run time polymorphism?
+What is faster: Linear or Binary Search? (Answered)
+Follow up: Why? (Answered in terms of complexity)
+Differences between Stack and Queue (Answered in terms of LIFO and FIFO)
+What is Dequeue? (I initially answered as removal of elements from the queue; what he was meaning to ask is Deque, or a double-ended queue)
+What language did I code in? (Answered C++)
+How many keywords are there in C++? (Much like a trivia question, answered can’t remember the exact number)
+Explain bubble sort. (Explained in short)
+Explain polymorphism. (Answered)
+Name the types of polymorphism. (Answered run-time and compile-time)
+Differences between method overloading and method overriding. (Named 2-3 pointers for each)
+Types of inheritance in C++. (Answered 5)
+What is a constructor? (Answered)
+What is a destructor? (Answered)
+Can a destructor be overloaded? (Answered no)
+Do you know SQL? (Answered Yes)
+Differences between Drop, Truncate, and Delete.
+Why is the Having clause used? (Answered in terms of Aggregate Functions)
+Asked me to Construct a query using Having, Where, and Group By. 
+normal questions on java, c, c++ , MVC, boot, JPA, hibernate -normal OOPS concepts
+java, springboot, microservices
+
+volatile keyword
+why java doesn't support multiple inheritance, what happens if we try to implement? can you explain with some example 
+When we are opening a google page, which type of request it is?GET or POST or other requests
+Why spring boot s required,when we have many spring components already?Advanatages of Springboot?
+DIfference between HTTP and HTTPS
+What type of errorcodes you get genearlly, when you access a REST webservice using browser? 
+What are the things you write or configure,in your spring boot application,related to tomcat
+what is REST
+What are the Memory Allocations available in Java
+What are functional interfaces? What is the need to have functional interfaces?
+How multiple requests will be handled by single servlet instance
+Underlying implementation of set
+Can two threads of two different objects of same class can access a syncronized method in that class or not?
+Can we write custom exception? If yes, how?
+
+
+jvm jre and jdk ?
+static method can be override ?
+diff b/w list and set
+diff b/w hashset and treeset
+how sorting is performed in treeset ?
+diff b/w sleep and wait?
+diff b/w noclasdeffound and classnotfound exception
+how u catch exception through jdbc templates
+create your own custom exception class
+design pattern of dispatcherservlet
+modules of spring
+scope of bean
+prototype through singlton and vice versa ?
+same class with diferent bean id in xml file and if yes then how many instances ?
+mappings in hibernate
+- Tell me 5 things which I can do to override any method.
+- Why Strings are immutable?
+- Write your own immutable class. Then following questions of Deep cloning.
+- Which are the Wrapper classes in java?
+- Write a program to reverse a string without using any inbuilt direct function.
+- Write a program to check numbers till 10 are even or odd using recursion.
+- Write a program to check given string is Palindrome or not.
+- Can we write custom exception? If yes, how?
+- What is contract between equals() and hashcode(). Show me by writing code if you want to override both methods.
+- I have a class i.e Employee which has two properties id and name. If I want to sort list of employees by their names, what should I do?
+- Difference between synchronized and Lock.
+- Difference between synchronizedMap and ConcurrentHashMap.
+- Producer/Consumer problem using wait and notify
+- Write a program of Producer/Consumer problem using BlockingQueue.
+- Spring IOC. What are different ways to achieve Spring IOC?
+- Difference between BeanFactory and ApplicationContext.
+- Spring Bean Lifecycle.
+- How to create RESTful Webservice in Spring.
+- What to do if I want to get 1st number employee details by hitting URL www.restapi.com/employee/1. Write a controller method for the same.
+- What are the properties to configure Hibernate?
+- What is dialect? Why is it used?
+- How do we write query in Hibernate same as ‘SELECT * FROM EMPLOYEES’ in SQL?
+- What are alternatives to write queries in Hibernate apart from HQL?
+- Write configuration for one-to-many relationship between two classes in Hibernate.
+- Difference between save() and merge().
+- List<ParentClass> list = new ArrayList<ChildClass>();
+What will happen?
+- I have one method void method(ArrayList<String> list){}.
+I’m calling this method by passing raw-type arraylist i.e. method(new ArrayList()). What will happen?
+- How to convert given String to integer? If I do Integer.parseInt("chintan"); what will happen?
+- What are the classes you have used for Stream io?
+- What is the difference between Aggregation and Composition?

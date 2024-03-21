@@ -1,0 +1,73 @@
+1. overloading and overriding
+2. java keywords final, static, super
+3. String, StringBuilder, StringBuffer
+4. Interface, Abstract class
+5. Comprable, Comparator
+6. Mutable string. String pool, String pool: Mutable and Immutable.
+7. HashMap, HashTable, SynchronizedHashMap, ConcurrentHashMap
+8. RestTemplate.
+9. Why we are using a specific Database like:mongo, postgres, cassandra
+10. In stream: what is intermediate and terminal.
+11. SpringBoot Annotations: @Qualifier, @RestController, @Controller, @Autowired, @Configuration, @Bean @RestController,     @JpaRepository
+12. Access modifier:public, private, protected, default.
+13. OOPS Concept.
+14. Difference between list and set.
+15. Multithreading.
+16. What is DTO
+17. What is DTU
+18. Design Patterns:Singetan,Factory, Builder
+19. some questions about OOP, task for coderefactoring, dependency injection and multithreading
+20. Terminal vs Non-terminal operations in Java Steam API
+21. Left join vs Right join in SQL, examples
+22. OOP patterns like Factory vs Builder
+23. How to make collection thread safe.
+24. HashSet, TreeSet, HashMap, TreeMap, 
+25. Iterator work for collection
+26. ArrayList and Linklist.
+27. Method Chaining
+28. SOLID principles
+29. Spring core and features and spring boot with spring proxy
+30. ACID principles and Isolation levels in hibernate
+31. Threads and garbage collector in depths
+32. Java concurrency
+33. What is transactional in Java
+34. How does hash map works internally?
+35. how you manage collisions on a hash table ?
+36. How does the Hasmap work
+37. Map<Object,Integer> -> how we compare Object by equals or hashcode
+38. DDL,DML
+39. difference B/W save and Persist
+40. can we modify final ArrayList??
+41. can we overload final method--no
+42. Hibernate JPA 
+43. how to define schema many to many in sql
+44. What are Lambda Expression its example and why we use it. Its advantages.
+45. What is Functional interface and how to create Functional interface.
+46. What are the advantages of functional interface & default methods in functional interface.
+47. what is optional in java
+48. what are java 8 features
+49. what is singleton class why we use it. create one singleton class.
+50. how to make singleton class thread safe
+51. what happens when more threads trying to get the singleton object and how to prevent from that.
+52. what is lazy initialization.
+53. what is difference between wait and sleep how it works internally.
+54. how to achieve synchronization
+55. what is difference between hashtable and hashmap
+56. what is difference between ArrayList and Vector
+57. what is volatile?
+58. what happens to lock acquired when thread go for sleep or wait.
+59. Difference between microservice and monolithic
+60. Difference service/repository
+61. Pathvariable and requestparam, requestBody, requestMapping
+62. Advantages/disadvantage of microservices
+63. spring security, have u used any external security tool.
+64. Drawback of springboot.
+65. diff b/w spring and springboot.
+66. diff b/w stream and loops.
+67. drawback of lambda expression, what is lambda expression, what functional interface.
+68. diff b/w mongo and postgres. when to use mongo and postgres.
+69. map vs flatmAP
+70. How does a HashMap work internally? 
+    Code a simplistic version of the working.
+    - Implement Put/Get methods.
+    - Scaling the HashMap when it reaches full capacity

@@ -1,0 +1,76 @@
+JAVA 8+, OOP, SOLID, Spring, Hibernate and Rest API.
+2. Java specifiers 3. SQL basic queries ( i was asked to write queries) 4. which one would you prefer linkedlist or arrylist to add or delete the elemts 5. i was asked to write program for count the letters in string 6. SQL Query to display the names of employee who has _ in their name
+Technical round: Basic java core questions and some spring questions
+ACID
+abstract class and interface
+Java Core, 
+Core Java
+Difference between Map and HashMap Java.
+different types of collections. Difference between set and list. When to use which.
+Different SQL joins like inner, outer, left etc.
+What is OOP, enumerate and explain all 4 pillars of OOP
+Topics like Rest APIs, Spring boot and java 8 features, annotations
+String vs StringBuilder vs StringBuffer
+Final vs Finally vs Finalize
+Hashmap internal implementation
+multithreading
+Exception handling
+find the maximum sum of sub-sequences from an array
+traverse binary tree in post-order
+comperator and comperable.
+what you know about databases
+What are threads?
+What is your approach for debugging a code?
+What is difference between object oriented programming language and object based programming language?
+Difference between method Overloading and Overriding.
+abstraction and encapsulation?
+What is recursion?
+Write a function the reverse a string in Java?
+What do you like about using Java?
+How to make class as a immutable?
+They gave me a real-world scenario and asked me how Polymorphism could be implemented in it.
+
+Spring boot, REST, Cloud, Javascript, CI/CD
+String Handling
+What is dependency injection in spring?
+What is Fail safe and Fail Fast
+Spring Framework
+rest template
+Spring boot annotations, Microservices basics
+SOAP vs REST, pros and cons of each
+What are web services? What are API's? how do you create a REST API?
+Basic java questions + process related + DB
+Describe life cycle of sevlets and string related questions
+"You know DITA, right?"
+How would you get the phone numbers from a 1,000 page document?
+I was asked about Shell and Shell scripts. When a command is entered in the terminal and when you press Enter, how does the command get executed?
+They asked me some basic Linux commands
+What does a header file in C consist of and where is it stored?
+Difference between linker and loader
+He asked me to share my screen and write the representation of a Linked list, Recursive Implementation of linked list.
+He then asked me that if recursion uses a Stack and you implement a linked list using recursion, does the top of the stack contain a pointer to the head or the last node? (It points to the head)
+I was then asked about Sorting Algorithms, which was the best one, and about their Time Complexities.
+What is a BST and what are its real-world applications?
+Normalization in DBMS
+design patterns
+
+
+
+Introduce yourself?
+What do you know about IBM?
+why you are good for the role Software Developer?
+What are your Strength and Weakness?
+why you want to join the IBM?
+After 5 year where you want to see yourself?
+Question from Resume?
+Questions form prior projects?
+Why do you want to join IBM?
+Why do you want to leave your current job?
+Why does IBM choose you instead of someone else?
+your daily activities as a developer
+Where do you see yourself in 5 years?
+lots of behavioural questions: what was the toughest technical challenge and how did you resolve it, have you ever taught someone something? tell me
+How would you handle situation where your team mate is not giving enough importance to the work? 
+How many golf balls can you fit into a vehicle?
+Behavior Questions like "Give me an example of you leading a project and your team members not agreeing to each other. How did you handle it ?
+Firstly, they asked me to introduce myself and specifically asked me what my technical strengths were. Be confident in what you answer because the rest of the interview will depend on this.
